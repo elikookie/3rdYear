@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>  
+
+<researcher gender="Male">
+    <Name>Alan</Name>
+    <Surname>Turing</Surname>
+    <DateOfBirth>23 June 1912</DateOfBirth>
+    <DateOfDeath>7 June 1954</DateOfDeath>
+    <BirthPlace city="London" country="England" />
+    <degree score="Honours">Mathematics</degree>
+</researcher>
